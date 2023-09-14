@@ -1,7 +1,5 @@
 import React from 'react';
-
 import { Container } from '../../styles/GlobalStyle';
-
 import { Title, Paragrafo } from './styled';
 
 export default function Login() {
